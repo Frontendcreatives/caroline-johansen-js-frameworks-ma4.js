@@ -1,0 +1,1 @@
+export const API = "https://cors-anywhere.herokuapp.com/http://www.recipepuppy.com/api/";
